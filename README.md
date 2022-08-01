@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Gabriel! Muito prazer... Seja bem-vindo! &#x270C;</h1>
+<h1>Olá, eu sou o Gabriel! Seja bem-vindo! &#x270C;</h1>
 
 <hr>
 
