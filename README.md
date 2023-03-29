@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pierneves_gabl/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Neves#0840)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielneves17&show_icons=true&theme=onedark)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielneves17&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielneves17&layout=compact&theme=onedark)
 
 ## Tecnologias
 
